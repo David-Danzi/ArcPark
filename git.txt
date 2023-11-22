@@ -1,8 +1,0 @@
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIO2YF0zd3w+ScKbrVTQ9vT8HysZ66vMKLrGrxjEa3ks8 davidanzi2910@gmail.com
-
-  git init
-  git add README.md
-  git commit -m "first commit"
-  git branch -M main
-  git remote add origin git@github.com:David-Danzi/ArcPark.git
-  git push -u origin main
